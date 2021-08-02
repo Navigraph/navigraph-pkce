@@ -1,0 +1,26 @@
+{
+  "name": "@navigraph/pkce",
+  "version": "1.0.0",
+  "description": "Generate Proof Key for Code Exchange (PKCE) challenge pair compatible with Coherent GT.",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "PKCE",
+    "oidc",
+    "oauth2",
+    "Coherent GT",
+    "msfs"
+  ],
+  "author": "Navigraph AB",
+  "license": "UNLICENSED",
+  "bugs": {
+    "email": "dev@navigraph.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
