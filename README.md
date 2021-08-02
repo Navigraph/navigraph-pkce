@@ -4,8 +4,14 @@ Generates a Proof Key for Code Exchange ([PKCE](https://www.oauth.com/oauth2-ser
 
 ## Installation
 
-```shell
+```bash
 npm install @navigraph/pkce
+```
+
+or
+
+```bash
+yarn add @navigraph/pkce
 ```
 
 ## Usage
