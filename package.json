@@ -1,6 +1,6 @@
 {
   "name": "@navigraph/pkce",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate Proof Key for Code Exchange (PKCE) challenge pair compatible with Coherent GT.",
   "main": "index.js",
   "types": "./index.d.ts",
