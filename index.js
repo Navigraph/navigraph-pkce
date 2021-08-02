@@ -33,6 +33,10 @@ function hexStringToBytes(str) {
   })
 }
 
+/**
+ * Generates a Proof Key for Code Exchange (PKCE) challenge pair.
+ * @see https://datatracker.ietf.org/doc/html/rfc7636
+ */
 function pkce() {
   if (typeof window !== "object") {
       throw new Error("This code is only meant to run in a browser environment.");
